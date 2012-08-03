@@ -7,6 +7,8 @@ import javax.faces.bean.*;
  *  GWT, Spring, Hibernate/JPA, and Java programming</a>.
  */
 
+// checking.....
+
 @ManagedBean 
 public class NumGenerator {
   public double getRandomNum() {
